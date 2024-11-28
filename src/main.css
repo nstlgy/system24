@@ -667,7 +667,7 @@ html.theme-light {
 	--channel-text-area-placeholder: var(--txt-3);
 	--channels-default: var(--txt-2);
 	--channeltextarea-background: var(--bg-0);
-	--chat-background: var(--primary-600);
+	/* --chat-background: var(--primary-600); */
 	--chat-banner-bg: var(--primary-630);
 	--chat-border: var(--primary-700);
 	--chat-input-container-background: var(--primary-600);
